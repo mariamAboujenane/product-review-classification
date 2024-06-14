@@ -51,7 +51,7 @@ The project uses a machine learning model to classify product reviews. The speci
 ## PCA visualization
 ![image](https://github.com/mariamAboujenane/product-review-classification/assets/106840796/f0ad7213-3d2d-4d38-87d8-a41c6bdaacbd)
 ![image](https://github.com/mariamAboujenane/product-review-classification/assets/106840796/208caf77-082c-4aba-8547-7945db5bf8f6)
-![image](https://github.com/mariamAboujenane/product-review-classification/assets/106840796/45231549-9176-4f0b-bd15-f5f70e297b3d)
+![image](https://github.com/mariamAboujenane/product-review-classification/assets/106840796/8a3cb103-ab0b-402a-abed-2d8f7ab869f8)
 
 ## Predicting Sentiment in New Reviews
 ![image](https://github.com/mariamAboujenane/product-review-classification/assets/106840796/9dd638c6-efda-4947-be4f-2319cfab4f39)
