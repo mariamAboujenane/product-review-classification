@@ -4,17 +4,6 @@ This project focuses on classifying product reviews into different categories ba
 
 <a href="https://colab.research.google.com/github/mariamAboujenane/product-review-classification/blob/main/product_review_classification.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Dataset](#dataset)
-- [Model](#model)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -34,12 +23,6 @@ To run this project locally, follow these steps:
     cd product-review-classification
     ```
 
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. (Optional) Open the project in Google Colab by clicking the badge above.
 
 ## Usage
 
@@ -55,25 +38,20 @@ The project directory contains the following files:
 
 - `product_review_classification.ipynb`: The main Jupyter notebook containing the code for data preprocessing, model training, and evaluation.
 - `requirements.txt`: A list of Python dependencies required to run the project.
-- `data/`: A directory where the dataset is stored.
-- `models/`: A directory to save trained models.
 
-## Dataset
-
-The dataset used for this project consists of product reviews with their respective categories. Ensure that your data is in a similar format if you are using your own dataset.
+## EDA
+![image](https://github.com/mariamAboujenane/product-review-classification/assets/106840796/d6863b56-6ea8-4f88-8aa4-695d74ae6142)
+![image](https://github.com/mariamAboujenane/product-review-classification/assets/106840796/04854f0f-692d-4dd5-86f9-f7d0ebd4c697)
+![image](https://github.com/mariamAboujenane/product-review-classification/assets/106840796/67d0f61f-7a1d-40ef-93bb-5949093b9465)
 
 ## Model
-
 The project uses a machine learning model to classify product reviews. The specific model and its parameters are defined and trained within the Jupyter notebook.
+![image](https://github.com/mariamAboujenane/product-review-classification/assets/106840796/c5602ec7-277e-4ff2-98c4-fe3e68c2f3ec)
 
-## Results
+## PCA visualization
+![image](https://github.com/mariamAboujenane/product-review-classification/assets/106840796/f0ad7213-3d2d-4d38-87d8-a41c6bdaacbd)
+![image](https://github.com/mariamAboujenane/product-review-classification/assets/106840796/208caf77-082c-4aba-8547-7945db5bf8f6)
+![image](https://github.com/mariamAboujenane/product-review-classification/assets/106840796/45231549-9176-4f0b-bd15-f5f70e297b3d)
 
-The results of the model, including accuracy, precision, recall, and F1-score, are displayed in the notebook. Visualization of the model's performance is also included.
-
-## Contributing
-
-If you wish to contribute to this project, please fork the repository and submit a pull request. We welcome improvements, bug fixes, and new features.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+## Predicting Sentiment in New Reviews
+![image](https://github.com/mariamAboujenane/product-review-classification/assets/106840796/9dd638c6-efda-4947-be4f-2319cfab4f39)
